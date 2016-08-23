@@ -2,10 +2,11 @@
 Jekyll powered blog with Google materialize css by materializecss.com
 
 ### Demo
-http://riefachan.github.io/jekyll-materialize/
+https://codeharuka.github.io/jekyll-materialize/
 
 ### Usage
 [Jekyll](http://http://jekyllrb.com/)
+
 [Materializecss](http://materializecss.com/)
 
 ### Features
